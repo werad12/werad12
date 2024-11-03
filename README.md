@@ -1,7 +1,7 @@
 ## Works
 - KakaoMobility 2023.02 ~
 
-## Project
+## 📂 Project
 프로바디아(Protect your body from diabetes) - 당뇨, 혈당 관리 플랫폼 (SW 마에스트로 13기)
 
 
