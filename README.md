@@ -1,5 +1,6 @@
 ## Works
 - KakaoMobility 2023.02 ~
+- Software Maestro 2022.04 ~ 2022.12
 
 ## 📂 Project
 프로바디아(Protect your body from diabetes) - 당뇨, 혈당 관리 플랫폼 (SW 마에스트로 13기)
